@@ -1,0 +1,12 @@
+.actios:empty{
+  display : none ;
+}
+
+.actions-default{
+  display : none  ;
+}
+
+
+.actions-default + .actions-default{
+  display : block  ;
+}
